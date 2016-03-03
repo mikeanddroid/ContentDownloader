@@ -13,6 +13,7 @@ public class ContentDownloader {
 
     private static String TAG = ContentDownloader.class.getSimpleName();
     private static Map<Object, Object> queryMap = new LinkedHashMap<>();
+    public String testInit;
 
     protected ContentDownloader() {
     }
